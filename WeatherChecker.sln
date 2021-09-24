@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherChecker.Presentation", "WeatherChecker\WeatherChecker.Presentation.csproj", "{8652EDCD-61B7-498F-BFD3-0B4DEEE7F194}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherChecker.Presentation", "WeatherChecker.Presentation\WeatherChecker.Presentation.csproj", "{8652EDCD-61B7-498F-BFD3-0B4DEEE7F194}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherChecker.Domain", "WeatherChecker.Domain\WeatherChecker.Domain.csproj", "{1E27C4F6-D3A5-41D7-8F0D-1B72ED0E1AB7}"
 EndProject

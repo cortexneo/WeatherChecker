@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nativ\\OneDrive\\Desktop\\Magenic\\Nova Scotia\\WeatherChecker\\WeatherChecker\\WeatherChecker.Presentation.csproj": {}
+    "C:\\Users\\nativ\\OneDrive\\Desktop\\Magenic\\Nova Scotia\\WeatherChecker\\WeatherChecker.Presentation\\WeatherChecker.Presentation.csproj": {}
   },
   "projects": {
     "C:\\Users\\nativ\\OneDrive\\Desktop\\Magenic\\Nova Scotia\\WeatherChecker\\WeatherChecker.Data\\WeatherChecker.Data.csproj": {
@@ -180,14 +180,14 @@
         }
       }
     },
-    "C:\\Users\\nativ\\OneDrive\\Desktop\\Magenic\\Nova Scotia\\WeatherChecker\\WeatherChecker\\WeatherChecker.Presentation.csproj": {
+    "C:\\Users\\nativ\\OneDrive\\Desktop\\Magenic\\Nova Scotia\\WeatherChecker\\WeatherChecker.Presentation\\WeatherChecker.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nativ\\OneDrive\\Desktop\\Magenic\\Nova Scotia\\WeatherChecker\\WeatherChecker\\WeatherChecker.Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\nativ\\OneDrive\\Desktop\\Magenic\\Nova Scotia\\WeatherChecker\\WeatherChecker.Presentation\\WeatherChecker.Presentation.csproj",
         "projectName": "WeatherChecker.Presentation",
-        "projectPath": "C:\\Users\\nativ\\OneDrive\\Desktop\\Magenic\\Nova Scotia\\WeatherChecker\\WeatherChecker\\WeatherChecker.Presentation.csproj",
+        "projectPath": "C:\\Users\\nativ\\OneDrive\\Desktop\\Magenic\\Nova Scotia\\WeatherChecker\\WeatherChecker.Presentation\\WeatherChecker.Presentation.csproj",
         "packagesPath": "C:\\Users\\nativ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nativ\\OneDrive\\Desktop\\Magenic\\Nova Scotia\\WeatherChecker\\WeatherChecker\\obj\\",
+        "outputPath": "C:\\Users\\nativ\\OneDrive\\Desktop\\Magenic\\Nova Scotia\\WeatherChecker\\WeatherChecker.Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nativ\\AppData\\Roaming\\NuGet\\NuGet.Config",

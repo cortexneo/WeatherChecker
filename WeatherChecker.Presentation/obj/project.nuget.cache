@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DNvNJuU4RQPejw+URng511kjbxuYTkHUANKfiXjgcKG8f0qR9Oc4YlK68UFydffZLtKaklolFP+zt7XfKi16iw==",
+  "dgSpecHash": "H2KwhwTJsk4ybUM14oK41f3f/KpheTuYSql+O1yg5fynYB2hhjMfVzsI7yHfP3gIz6OPRdSHeiC4k1n7npGUDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nativ\\OneDrive\\Desktop\\Magenic\\Nova Scotia\\WeatherChecker\\WeatherChecker\\WeatherChecker.Presentation.csproj",
+  "projectFilePath": "C:\\Users\\nativ\\OneDrive\\Desktop\\Magenic\\Nova Scotia\\WeatherChecker\\WeatherChecker.Presentation\\WeatherChecker.Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nativ\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\nativ\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
