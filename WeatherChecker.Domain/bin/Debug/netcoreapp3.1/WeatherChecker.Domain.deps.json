@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WeatherChecker.Domain/1.0.0": {
+        "dependencies": {
+          "WeatherChecker.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "WeatherChecker.Domain.dll": {}
+        }
+      },
+      "WeatherChecker.Domain.Models/1.0.0": {
+        "runtime": {
+          "WeatherChecker.Domain.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherChecker.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherChecker.Domain.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Data\bin\Debug\netcoreapp3.1\WeatherChecker.Data.deps.json
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Data\bin\Debug\netcoreapp3.1\WeatherChecker.Data.dll
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Data\bin\Debug\netcoreapp3.1\WeatherChecker.Data.pdb
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Data\bin\Debug\netcoreapp3.1\WeatherChecker.Domain.dll
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Data\bin\Debug\netcoreapp3.1\WeatherChecker.Domain.Models.dll
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Data\bin\Debug\netcoreapp3.1\WeatherChecker.Domain.pdb
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Data\bin\Debug\netcoreapp3.1\WeatherChecker.Domain.Models.pdb
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Data\obj\Debug\netcoreapp3.1\WeatherChecker.Data.csprojAssemblyReference.cache
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Data\obj\Debug\netcoreapp3.1\WeatherChecker.Data.AssemblyInfoInputs.cache
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Data\obj\Debug\netcoreapp3.1\WeatherChecker.Data.AssemblyInfo.cs
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Data\obj\Debug\netcoreapp3.1\WeatherChecker.Data.csproj.CoreCompileInputs.cache
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Data\obj\Debug\netcoreapp3.1\WeatherChecker.Data.csproj.CopyComplete
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Data\obj\Debug\netcoreapp3.1\WeatherChecker.Data.dll
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Data\obj\Debug\netcoreapp3.1\WeatherChecker.Data.pdb

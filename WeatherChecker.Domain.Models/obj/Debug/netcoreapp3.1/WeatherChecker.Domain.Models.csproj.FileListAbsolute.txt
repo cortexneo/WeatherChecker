@@ -1,0 +1,8 @@
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Domain.Models\bin\Debug\netcoreapp3.1\WeatherChecker.Domain.Models.deps.json
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Domain.Models\bin\Debug\netcoreapp3.1\WeatherChecker.Domain.Models.dll
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Domain.Models\bin\Debug\netcoreapp3.1\WeatherChecker.Domain.Models.pdb
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Domain.Models\obj\Debug\netcoreapp3.1\WeatherChecker.Domain.Models.AssemblyInfoInputs.cache
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Domain.Models\obj\Debug\netcoreapp3.1\WeatherChecker.Domain.Models.AssemblyInfo.cs
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Domain.Models\obj\Debug\netcoreapp3.1\WeatherChecker.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Domain.Models\obj\Debug\netcoreapp3.1\WeatherChecker.Domain.Models.dll
+C:\Users\nativ\OneDrive\Desktop\Magenic\Nova Scotia\WeatherChecker\WeatherChecker.Domain.Models\obj\Debug\netcoreapp3.1\WeatherChecker.Domain.Models.pdb

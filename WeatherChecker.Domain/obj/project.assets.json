@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WeatherChecker.Domain.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/WeatherChecker.Domain.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WeatherChecker.Domain.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherChecker.Domain.Models/1.0.0": {
+      "type": "project",
+      "path": "../WeatherChecker.Domain.Models/WeatherChecker.Domain.Models.csproj",
+      "msbuildProject": "../WeatherChecker.Domain.Models/WeatherChecker.Domain.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "WeatherChecker.Domain.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\nativ\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\nativ\\OneDrive\\Desktop\\Magenic\\Nova Scotia\\WeatherChecker\\WeatherChecker.Domain\\WeatherChecker.Domain.csproj",
+      "projectName": "WeatherChecker.Domain",
+      "projectPath": "C:\\Users\\nativ\\OneDrive\\Desktop\\Magenic\\Nova Scotia\\WeatherChecker\\WeatherChecker.Domain\\WeatherChecker.Domain.csproj",
+      "packagesPath": "C:\\Users\\nativ\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nativ\\OneDrive\\Desktop\\Magenic\\Nova Scotia\\WeatherChecker\\WeatherChecker.Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\nativ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\nativ\\OneDrive\\Desktop\\Magenic\\Nova Scotia\\WeatherChecker\\WeatherChecker.Domain.Models\\WeatherChecker.Domain.Models.csproj": {
+              "projectPath": "C:\\Users\\nativ\\OneDrive\\Desktop\\Magenic\\Nova Scotia\\WeatherChecker\\WeatherChecker.Domain.Models\\WeatherChecker.Domain.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
